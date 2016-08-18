@@ -67,7 +67,7 @@ echo(link) -> {{
     alert(link.href);
 }}
 map <C-f> createScriptHint(echo)
-let configpath = 'D:\usr\GitRepository\cVimConfig\.cVimrc'
+let configpath = 'D:\\usr\\GitRepository\\cVimConfig\\.cVimrc'
 set localconfig
  " Update settings via a local file (and the `:source` command) rather
  " than the default options page in chrome
